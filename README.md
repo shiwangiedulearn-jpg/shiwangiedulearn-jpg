@@ -38,5 +38,6 @@ LLMs • RAG • Computer Vision • Git • Docker • SQL
 
 ## 📫 Connect
 
-LinkedIn: ...
-Email: ...
+LinkedIn: https://www.linkedin.com/in/shiwangi-aiml/
+Email: shiwangi.edulearn@gmail.com
+
